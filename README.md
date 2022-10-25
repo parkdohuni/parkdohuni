@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=WELCOME&fontAlign=30&fontSize=30&desc=parkdohuni's%20Github%20Profile&descAlign=60&descAlignY=50&theme=radical)
+🛠Tech Stack🛠
+💡used as the main
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+🌱used at least once
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=02569B&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkdohuni)](https://github.com/parkdohuni/github-readme-stats)
