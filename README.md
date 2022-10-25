@@ -1,6 +1,6 @@
 <div align="center">
 ### Hi there 👋
-</div>
+
 <!--
 **parkdohuni/parkdohuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   ![reversal](https://capsule-render.vercel.app/api?type=rect&text=WELCOME&fontAlign=30&fontSize=30&desc=parkdohuni's%20Github%20Profile&descAlign=60&descAlignY=50&theme=radical)   
 
   
-<div align="center">
   🛠Tech Stack🛠   
      
   💡used as the main   
