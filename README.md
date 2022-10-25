@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+
   ![reversal](https://capsule-render.vercel.app/api?type=rect&text=WELCOME&fontAlign=30&fontSize=30&desc=parkdohuni's%20Github%20Profile&descAlign=60&descAlignY=50&theme=radical)   
 
   
-
+<div align="center">
   🛠Tech Stack🛠   
   💡used as the main   
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
