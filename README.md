@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=WELCOME&fontAlign=30&fontSize=30&desc=parkdohuni's%20Github%20Profile&descAlign=60&descAlignY=50&theme=radical)   
 🛠Tech Stack🛠   
 💡used as the main   
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkdohuni)](https://github.com/parkdohuni/github-readme-stats)
+</div>
